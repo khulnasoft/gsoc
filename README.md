@@ -6,20 +6,6 @@ Since its birth, under the umbrella of [The Honeynet Project](https://www.honeyn
 
 Those projects has been successful a lot! They did not only bring ThreatMatrix to the next level but did open several careers opportunities to the contributors.
 
-### 2020 - 2022
-
-Project Summaries:
-
-- 2020: (Mentor: Matteo Lodi)
-  - [Eshaan Bansal](https://twitter.com/eshaan7_): [ThreatMatrix Work Product](https://www.honeynet.org/2020/08/26/gsoc-2020-work-product%e2%80%8a-%e2%80%8aintel-owl/)
-- 2021: (New mentor: Eshaan Bansal)
-  - [Sarthak Khattar](https://twitter.com/Mr_Momo07): [ThreatMatrix Improvements](https://www.honeynet.org/2021/08/20/gsoc-2021-project-summary-threatmatrix-improvements/)
-  - [Shubham Pandey](https://twitter.com/imshubham31): [ThreatMatrix Connectors Manager and Integrations](https://www.honeynet.org/2021/08/20/gsoc-2021-project-summary-threatmatrix-connectors-manager-and-integrations/)
-- 2022: (New mentors: Shubham Pandey, Simone Berni, Daniele Rosetti)
-  - [Aditya Narayan Sinha](https://twitter.com/0x0elliot): [Creating Playbooks for ThreatMatrix](https://www.honeynet.org/2022/10/06/gsoc-2022-project-summary-creating-playbooks-for-threatmatrix/)
-  - [Aditya Pratap Singh](https://twitter.com/devmrfitz): [ThreatMatrix v4 improvements](https://www.honeynet.org/2022/09/26/gsoc-2022-project-summary-threatmatrix-v4-improvements/)
-  - [Hussain Khan](https://twitter.com/Hussain41099635): [ThreatMatrix Go Client](https://www.honeynet.org/2022/09/06/gsoc-2022-project-summary-threatmatrix-go-client-go-threatmatrix/)
-
 ### 2023 - today
 Starting from 2023, you may find the updated project ideas list for the current year in the dedicated folder in this Github repo. For example, for 2023 check [here](https://github.com/khulnasoft/gsoc/blob/main/2023/README.md).
 
@@ -72,4 +58,4 @@ You can also ask for a review anytime to the community or mentor candidates befo
 
 ### Official communication channels
 * [Slack chat](https://gsoc-slack.honeynet.org/)
-* [Twitter](https://twitter.com/intel_owl)
+* [Twitter](https://twitter.com/khulnasoft)
