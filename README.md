@@ -1,26 +1,6 @@
 # Google Summer of Code
 Repository containing [GSoC](https://summerofcode.withgoogle.com/) guidelines, history and ideas lists.
 
-## History
-Since its birth, under the umbrella of [The Honeynet Project](https://www.honeynet.org), ThreatMatrix has been participating in the [Google Summer of Code](https://summerofcode.withgoogle.com/) (GSoC)!
-
-Those projects has been successful a lot! They did not only bring ThreatMatrix to the next level but did open several careers opportunities to the contributors.
-
-### 2023 - today
-Starting from 2023, you may find the updated project ideas list for the current year in the dedicated folder in this Github repo. For example, for 2023 check [here](https://github.com/khulnasoft/gsoc/blob/main/2023/README.md).
-
-Plus, we are hosting projects from our friends of the following organizations/projects:
-* [Quark-Engine](https://github.com/quark-engine)
-* [Qiling](https://github.com/qilingframework)
-* [Certego BuffaLogs](https://github.com/certego/BuffaLogs)
-
-This is the list of the selected projects with their summaries, starting from 2023:
-- 2023: (New mentors: Federico Foschini and Aditya Narayan Sinha)
-  - [Shivam Purohit](https://twitter.com/stay_away_plss): Authentication and Maintenance of ThreatMatrix (Interrupted midterm)
-  - [Abheek Tripathy](https://twitter.com/abheekblahblah): [Frontend Improvements for Buffalogs and Threatmatrix](https://khulnasoft.github.io/blogs/gsoc23_project_summary)
-- 2024:
-  - YOU COULD BE HERE! [PROJECTS LIST IS HERE](https://github.com/khulnasoft/gsoc/blob/main/2024/README.md)
-
 
 ## Be the next contributor!
 If you are interested in being the next GSoC developer for ThreatMatrix, join the [Honeynet Slack chat](https://gsoc-slack.honeynet.org/) for more info.
